@@ -40,7 +40,7 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 ## Description
-This is the 6th challenge assignment I did during my time in the UT Austin Coding Bootcamp. I have mastered the use of server-side APIs, the Foundation framework, and JavaScript.
+This is the 6th challenge assignment I did during my time in the UT Austin Coding Bootcamp. I have mastered the use of server-side APIs, the Foundation framework, and JavaScript. Just type in your city into the searchbar and the weather data should be displayed below. The container below the searchbar will save your search history.
 
 ## Media
 ![GitHub_6](https://user-images.githubusercontent.com/114362462/212497540-f5b1ddba-b3de-43cd-8705-655f8295345f.png)
