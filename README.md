@@ -16,7 +16,7 @@
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Description](#description)
-- [Features](#features)
+- [Media](#media)
 - [Installation](#installation)
 - [Contributors](#contributors)
 - [Contact](#contact)
@@ -41,8 +41,7 @@ THEN I am again presented with current and future conditions for that city
 
 ## Description
 
-## Features
-//INSERT MEDIA//
+## Media
 
 ## Installation
 
