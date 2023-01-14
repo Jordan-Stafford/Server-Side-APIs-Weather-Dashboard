@@ -40,10 +40,14 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 ## Description
+This is the 6th challenge assignment I did during my time in the UT Austin Coding Bootcamp. I have mastered the use of server-side APIs, the Foundation framework, and JavaScript.
 
 ## Media
+![GitHub_6](https://user-images.githubusercontent.com/114362462/212497540-f5b1ddba-b3de-43cd-8705-655f8295345f.png)
+![GitHub_6(1)](https://user-images.githubusercontent.com/114362462/212497551-9883398c-9165-4aa4-b957-ad0e8d3b4c83.png)
 
 ## Installation
+Fork this repo/copy the code onto your machine.
 
 ## Contributor(s)
 [Jordan-Stafford](https://github.com/Jordan-Stafford)
